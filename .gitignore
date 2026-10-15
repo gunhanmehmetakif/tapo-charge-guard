@@ -1,0 +1,13 @@
+# Local settings (contain IP / Wi-Fi names)
+ayarlar.json
+PasaTray.xml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Tools
+.claude/
+*.log

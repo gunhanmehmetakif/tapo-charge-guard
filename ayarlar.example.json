@@ -1,0 +1,8 @@
+{
+  "ust_esik": 80,
+  "alt_esik": 20,
+  "oto_kontrol": true,
+  "priz_ip": "192.168.1.50",
+  "ev_aglari": ["EvWifiAdi"],
+  "oyun_listesi": ["VALORANT.exe"]
+}
